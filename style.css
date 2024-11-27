@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+}
+header {
+    background-color: black; 
+    width: 100%;
+}
+
+input{
+    height: 90px;
+}
+
+.container{
+    margin-top: 80px;
+}
+
+.container input {
+    background-color: rgb(66, 66, 66);
+    color: white;
+    
+}
+.container input:focus{
+    background-color: rgb(66, 66, 66);
+    color: rgb(86, 86, 238);
+}
+
+
+.teclado button{
+    font-size: 40px;
+    height: 150px;
+    width: 90%;
+    margin: 15px;
+}
